@@ -1,0 +1,14 @@
+.stepNum {
+  font-size: 1.3rem;
+  text-transform: capitalize;
+  margin: 1rem 0;
+}
+.step-strong {
+  color: rgb(76, 175, 80);
+  font-weight: 600;
+}
+.step-num-heading {
+  font-size: 1.3rem;
+  margin-top: 2rem;
+  font-weight: 600;
+}

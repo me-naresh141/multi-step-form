@@ -1,0 +1,23 @@
+.btn-div {
+  text-align: end;
+}
+
+.back-btn {
+  padding: 0.5rem 1rem;
+  font-size: 1.5rem;
+  text-transform: capitalize;
+  cursor: pointer;
+  margin: 0rem 1rem;
+  background: transparent;
+  border: none;
+}
+.next-btn {
+  background-color: rgb(12, 117, 255);
+  color: white;
+  padding: 0.5rem 1rem;
+  font-size: 1.5rem;
+  text-transform: capitalize;
+  cursor: pointer;
+  margin: 0rem 1rem;
+  border: none;
+}

@@ -1,0 +1,11 @@
+.steper {
+  display: flex;
+}
+li {
+  list-style: none;
+  margin-right: 2rem;
+  font-size: 1.2rem;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+}

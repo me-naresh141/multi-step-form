@@ -1,0 +1,12 @@
+.textarea-div {
+  display: flex;
+  flex-direction: column;
+}
+.checkbox-div {
+  display: flex;
+  justify-content: space-around;
+  margin: 2rem 0;
+}
+.message-label {
+  margin-left: 1rem;
+}

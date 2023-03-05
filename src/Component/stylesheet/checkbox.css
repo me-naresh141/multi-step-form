@@ -1,0 +1,12 @@
+.icon-div {
+  display: flex;
+  justify-content: space-around;
+  margin: 2rem 0;
+}
+.checkbox-div {
+  display: flex;
+  flex-direction: column;
+}
+.checkbox-label {
+  margin-left: 1rem;
+}
